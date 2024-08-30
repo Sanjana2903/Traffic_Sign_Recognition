@@ -1,5 +1,4 @@
 # Traffic_Sign_Recognition
-This project aims to classify German traffic signs using a Convolutional Neural Network (CNN) built with TensorFlow and Keras. The model is trained and tested on the German Traffic Sign Recognition Benchmark (GTSRB) dataset and is capable of recognizing 43 different traffic sign classes with high accuracy.
 
 This project uses deep learning techniques to classify traffic signs from the GTSRB dataset. The CNN model processes image data to accurately predict the type of traffic sign from 43 classes. The model is designed using TensorFlow and Keras, and it achieves significant accuracy on both training and unseen test data.
 
