@@ -21,15 +21,15 @@ pip install numpy pandas tensorflow Pillow matplotlib scikit-learn opencv-python
 
 The CNN model includes the following layers:
 
-Conv2D: Convolutional layers for feature extraction with ReLU activation.
-MaxPool2D: Pooling layers to reduce spatial dimensions.
-Dropout: Regularization to prevent overfitting.
-Flatten: Flattening the 2D features to 1D.
-Dense: Fully connected layers with ReLU and softmax activations.
-Optimizer: Adam
-Loss Function: Categorical Crossentropy
-Metrics: Accuracy
-Epochs: 15
+1. Conv2D: Convolutional layers for feature extraction with ReLU activation.
+2. MaxPool2D: Pooling layers to reduce spatial dimensions.
+3. Dropout: Regularization to prevent overfitting.
+4. Flatten: Flattening the 2D features to 1D.
+5. Dense: Fully connected layers with ReLU and softmax activations.
+6. Optimizer: Adam
+7. Loss Function: Categorical Crossentropy
+8. Metrics: Accuracy
+9. Epochs: 25
 
 **Training**
 
