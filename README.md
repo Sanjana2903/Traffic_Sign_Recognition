@@ -5,10 +5,10 @@ This project uses deep learning techniques to classify traffic signs from the GT
 
 **Features**
 
-End-to-end CNN model for traffic sign classification.
-Data preprocessing: resizing images and converting labels to one-hot encoding.
-Trained and evaluated with visualization of training performance (accuracy and loss curves).
-Capable of predicting traffic signs in real-world test images.
+1. End-to-end CNN model for traffic sign classification.
+2. Data preprocessing: resizing images and converting labels to one-hot encoding.
+3. Trained and evaluated with visualization of training performance (accuracy and loss curves).
+4. Capable of predicting traffic signs in real-world test images.
 
 **Installation**
 
