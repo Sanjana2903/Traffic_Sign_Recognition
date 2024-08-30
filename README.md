@@ -11,7 +11,7 @@ This project uses deep learning techniques to classify traffic signs from the GT
 
 **Installation**
 
-1. Clone this repository
+1. Clone this repository [Clone](https://github.com/Sanjana2903/Traffic_Sign_Recognition.git)
 2. Install the required dependencies
 `pip install numpy pandas tensorflow Pillow matplotlib scikit-learn opencv-python`
 3. Download the dataset [Dataset](https://drive.google.com/drive/folders/13rl-Oapwi4wFnoosr3gRtaNVE3vMm5f1?usp=share_link)
