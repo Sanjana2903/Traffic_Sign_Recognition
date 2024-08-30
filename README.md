@@ -13,8 +13,8 @@ This project uses deep learning techniques to classify traffic signs from the GT
 
 1. Clone this repository
 2. Install the required dependencies
-pip install numpy pandas tensorflow Pillow matplotlib scikit-learn opencv-python
-3. Download the dataset 
+'pip install numpy pandas tensorflow Pillow matplotlib scikit-learn opencv-python'
+3. Download the dataset [Dataset](https://drive.google.com/drive/folders/13rl-Oapwi4wFnoosr3gRtaNVE3vMm5f1?usp=share_link)
 
 **Model Architecture**
 
